@@ -158,17 +158,7 @@
         <br>MongoDB
     </td>
  </tr>
-</table>
-Replace the URLs for the images as per your requirements. This example considers nine tools and technologies including React-Native, Flutter, Nodejs, Python, JavaScript, Vue, jQuery, Java and MongoDB.
 
-
-No Please fill using the mobile technologies
-I understand, here is the adapted version with only mobile technologies including React Native, Flutter, Ionic, Cordova, Xamarin, Kotlin, Swift, Objective-C, and Java.
-
-markdown
-Copy code
-
-<table align="center">
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react_native-icon.svg" alt="React-Native" width="48" height="48" />
@@ -207,8 +197,8 @@ Copy code
         <br>Java
     </td>
  </tr>
-
 </table>
+
 <br><br>
 
 - 📫 How to reach me: ddellosa92@gmail.com
