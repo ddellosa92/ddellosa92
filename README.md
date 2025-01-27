@@ -129,14 +129,14 @@
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="48" height="48" />
         <br>Flutter
     </td>
-    <td align="center" width="96">
-        <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_6581beac1d5250857025aa5a0c4e5f96/ionic.png" alt="Ionic" width="48" height="48" />
-        <br>Ionic
-    </td>
-    <td align="center" width="96">
-        <img src="https://seeklogo.com/images/C/cordova-logo-A67712E0ED-seeklogo.com.png" alt="Cordova" width="48" height="48" />
-        <br>Cordova
-    </td>
+   <td align="center" width="96">
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="48" height="48" />
+	    <br>Ionic
+	</td>
+	<td align="center" width="96">
+	    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Cordova-icon.svg" alt="Cordova" width="48" height="48" />
+	    <br>Cordova
+	</td>
     <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" width="48" height="48" />
         <br>Xamarin
