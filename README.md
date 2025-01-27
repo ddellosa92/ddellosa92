@@ -129,45 +129,6 @@
         <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="48" height="48" />
         <br>Flutter
     </td>
-     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-        <br>Nodejs
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-        <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-        <br>JavaScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-        <br>Vue
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-        <br>jQuery
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-        <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-        <br>MongoDB
-    </td>
- </tr>
-
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react_native-icon.svg" alt="React-Native" width="48" height="48" />
-        <br>React-Native
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="48" height="48" />
-        <br>Flutter
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ionic-icon.svg" alt="Ionic" width="48" height="48" />
         <br>Ionic
