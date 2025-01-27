@@ -120,41 +120,41 @@
     </td>
  </tr>
 
-  <tr>
+<tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react_native-icon.svg" alt="React-Native" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React-Native" width="48" height="48" />
         <br>React-Native
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="Flutter" width="48" height="48" />
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="48" height="48" />
         <br>Flutter
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ionic-icon.svg" alt="Ionic" width="48" height="48" />
+        <img src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_6581beac1d5250857025aa5a0c4e5f96/ionic.png" alt="Ionic" width="48" height="48" />
         <br>Ionic
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cordova-icon.svg" alt="Cordova" width="48" height="48" />
+        <img src="https://seeklogo.com/images/C/cordova-logo-A67712E0ED-seeklogo.com.png" alt="Cordova" width="48" height="48" />
         <br>Cordova
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/xamarin-icon.svg" alt="Xamarin" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="Xamarin" width="48" height="48" />
         <br>Xamarin
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kotlin-icon.svg" alt="Kotlin" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48" />
         <br>Kotlin
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="48" height="48" />
         <br>Swift
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/objective_c-icon.svg" alt="Objective-C" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Objective-C" width="48" height="48" />
         <br>Objective-C
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" />
         <br>Java
     </td>
  </tr>
